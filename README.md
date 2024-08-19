@@ -31,6 +31,12 @@ VidShare is a full-stack video-sharing platform built with the MERN stack (Mongo
    - Mongoose for MongoDB object modeling
    - Cloudinary for storage
 
+
+![image](https://github.com/user-attachments/assets/25a96172-de72-4cbd-bbe1-4716b1715f94)
+![image](https://github.com/user-attachments/assets/d5f19b11-7906-4d6e-8b4b-b0605efac14b)
+![image](https://github.com/user-attachments/assets/9eb48e91-fc76-483d-90e8-d6dee09596d6)
+
+
 ## Project Setup
 
 To set up the VidShare project, follow these steps:
